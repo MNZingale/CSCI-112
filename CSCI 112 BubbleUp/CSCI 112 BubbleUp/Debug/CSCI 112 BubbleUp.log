@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\slash\source\repos\CSCI 112 BubbleUp\CSCI 112 BubbleUp\Source.c(27,7): warning C4013: 'exit' undefined; assuming extern returning int
+  CSCI 112 BubbleUp.vcxproj -> C:\Users\slash\source\repos\CSCI 112 BubbleUp\Debug\CSCI 112 BubbleUp.exe
