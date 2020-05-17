@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\slash\OneDrive\Documents\Michael\TrainMaker\TrainMaker\TrainMaker\Source.c(44,7): warning C4013: 'exit' undefined; assuming extern returning int
+  TrainMaker.vcxproj -> C:\Users\slash\OneDrive\Documents\Michael\TrainMaker\TrainMaker\Debug\TrainMaker.exe
